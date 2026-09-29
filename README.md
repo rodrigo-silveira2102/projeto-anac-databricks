@@ -208,7 +208,7 @@ Essa etapa cria uma interface entre a camada analítica construída pelo pipelin
 
 Consulta em linguagem natural utilizada para comparar as companhias com maior volume de voos.
 
-![Companhias aéreas com maior número de voos](images/genie_companhias.png)
+![Companhias aéreas com maior número de voos](images/genie_companhia.png)
 
 ### 📈 Evolução mensal
 
@@ -220,7 +220,7 @@ Análise temporal do volume de voos utilizando os indicadores consolidados por m
 
 Consulta das combinações de origem e destino com maior número de registros de voo.
 
-![Rotas com maior número de voos](images/genie_rotas.png)
+![Rotas com maior número de voos](images/genie_rota.png)
 
 ---
 
